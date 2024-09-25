@@ -78,16 +78,15 @@ You can alternatively view this and other files on GitHub at [https://github.com
 | Appendix D: Adding Bells and Whistles to the Training Loop | - [appendix-D.ipynb](appendix-D/01_main-chapter-code/appendix-D.ipynb)                                                          | [./appendix-D](./appendix-D)  |
 | Appendix E: Parameter-efficient Finetuning with LoRA       | - [appendix-E.ipynb](appendix-E/01_main-chapter-code/appendix-E.ipynb)                                                          | [./appendix-E](./appendix-E) |
 
-
 <br>
-&nbsp
+&nbsp;
 
 The mental model below summarizes the contents covered in this book.
 
 <img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/mental-model.jpg" width="650px">
 
 <br>
-&nbsp
+&nbsp;
 
 ## Hardware Requirements
 
@@ -116,9 +115,12 @@ Several folders contain optional materials as a bonus for interested readers:
   - [Pretraining GPT on the Project Gutenberg Dataset](ch05/03_bonus_pretraining_on_gutenberg)
   - [Adding Bells and Whistles to the Training Loop](ch05/04_learning_rate_schedulers)
   - [Optimizing Hyperparameters for Pretraining](ch05/05_bonus_hparam_tuning)
+  - [Building a User Interface to Interact With the Pretrained LLM](ch05/06_user_interface)
+  - [Converting GPT to Llama](ch05/07_gpt_to_llama)
 - **Chapter 6:**
   - [Additional experiments finetuning different layers and using larger models](ch06/02_bonus_additional-experiments)
   - [Finetuning different models on 50k IMDB movie review dataset](ch06/03_bonus_imdb-classification)
+  - [Building a User Interface to Interact With the GPT-based Spam Classifier](ch06/04_user_interface)
 - **Chapter 7:**
   - [Dataset Utilities for Finding Near Duplicates and Creating Passive Voice Entries](ch07/02_dataset-utilities)
   - [Evaluating Instruction Responses Using the OpenAI API and Ollama](ch07/03_model-evaluation)
@@ -126,9 +128,10 @@ Several folders contain optional materials as a bonus for interested readers:
   - [Improving a Dataset for Instruction Finetuning](ch07/05_dataset-generation/reflection-gpt4.ipynb)
   - [Generating a Preference Dataset with Llama 3.1 70B and Ollama](ch07/04_preference-tuning-with-dpo/create-preference-data-ollama.ipynb)
   - [Direct Preference Optimization (DPO) for LLM Alignment](ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb)
+  - [Building a User Interface to Interact With the Instruction Finetuned GPT Model](ch07/06_user_interface)
 
 <br>
-&nbsp
+&nbsp;
 
 ## Questions, Feedback, and Contributing to This Repository
 
